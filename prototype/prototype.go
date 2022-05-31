@@ -1,5 +1,6 @@
 package prototype
 
 type address struct {
-	str
+	street string
+	city   string
 }
